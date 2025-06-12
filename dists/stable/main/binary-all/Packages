@@ -1,0 +1,13 @@
+Package: python3-genpasswd
+Version: 1.0.8
+Architecture: all
+Maintainer: who5673 <windows7modrenedition@gmail.com>
+Depends: python3
+Filename: pool/main/p/python3-genpasswd/python3-genpasswd_1.0.8_all.deb
+Size: 172580
+MD5sum: 7998a198f72b9db087a7f087d9432d15
+SHA1: fc2309bfbc18a62853c05ae0caa4679d116bf638
+SHA256: 04804cfc07e2d7614269512077877897389eb3ce748102cedf41c47a073b8103
+Section: utils
+Description: This is a genpasswd library. Note: It will be replaced with password-generator if you install that package.
+
